@@ -12,6 +12,7 @@ L'atelier étant préparé dans le cadre de [Paris Web](https://www.paris-web.fr
 bienvenue.
 
 Et maintenant, commençons !
+Youpi !!
 
 ## Pré-requis
 
